@@ -1,0 +1,7 @@
+*.log
+#ignora todos los archivos conterminacion .log
+
+
+
+modules/
+#ignora la carpeta modules
